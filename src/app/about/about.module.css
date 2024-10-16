@@ -1,0 +1,11 @@
+.container {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .header {
+    color: rgb(12, 12, 12);
+    font-size: 24px;
+  }
+  

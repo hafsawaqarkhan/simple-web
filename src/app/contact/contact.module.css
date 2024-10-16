@@ -1,0 +1,13 @@
+.container{
+    color :aqua;
+    background-color  :beige
+    
+}
+
+.header{
+    color: yellow;
+    background-color: lightgray;
+    font-size: 24px;
+    padding: 20px;
+    border-radius: 5px;
+}
